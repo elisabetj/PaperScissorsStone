@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertTrue;
 
 /**
- * Unit test for simple RockPaperScissors.
+ * Unit test for simple Game.
  */
 public class AppTest {
     /**
